@@ -1,12 +1,12 @@
 ---
 title: 'Game Development'
 date: 2018-11-28T15:14:54+10:00
-icon: 'services/service-icon-5.png'
+icon: 'icons/service-icon-5.png'
 featured: true
 draft: false
 heroHeading: 'Game Development'
 heroSubHeading: 'Development, publishing and marketing from one source.'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/service1.jpg'
 ---
 
 Game development today is easy, but developing good games and marketing them properly is not. We develop our own games and help developers to establish themselves on common platforms.  

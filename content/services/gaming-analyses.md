@@ -1,49 +1,27 @@
 ---
-title: 'Game Analyses'
-date: 2018-11-28T15:15:26+10:00
-icon: 'services/service-icon-3.png'
-featured: true
+title: 'Game Analyses' 
+date: 2018-11-28T15:15:26+10:00 
+icon: 'icons/service-icon-3.png' 
+featured: true 
 draft: false
-heroHeading: 'Game Analyses'
+heroHeading: 'Game Analyses' 
 heroSubHeading: 'Analyses and figures help to create the right product also in the future.'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/service1.jpg'
 ---
 
-Analyses of our special databases give us and them a deep insight into the current industry. The analysis also gives us a glimpse of where the future will take us.
+Analyses of our special databases give us and them a deep insight into the current industry. The analysis also gives us
+a glimpse of where the future will take us.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+- Market Report
+- Ingame Analyse
 
-## Geniti facinus praeruptam atris ab manus in
+## Market Report
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+A market analysis is often only quantitative and not qualitative. With the extended reports you can check a comparison
+with competitors in more detail.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+## Ingame Analyse
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+An in-game analysis can be very time-consuming. Every interaction of a player must be tracked and analyzed for this. The
+developers can see whether certain features are used frequently, can be helpful in troubleshooting and can also show the
+management sales hits more precisely.

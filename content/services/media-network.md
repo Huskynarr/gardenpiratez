@@ -1,12 +1,12 @@
 ---
 title: 'Media Network'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'icons/service-icon-4.png'
 featured: true
 draft: false
 heroHeading: 'Media Network'
-heroSubHeading: 'Product placement and news via a network.'
-heroBackground: 'services/service2.jpg'
+heroSubHeading: 'Product placement and news via our networks.'
+heroBackground: 'images/service2.jpg'
 ---
 
 Millions of users use our media network. Not only the visitors benefit from the mediation of products and news pages. It is also a suitable opportunity to present new products.

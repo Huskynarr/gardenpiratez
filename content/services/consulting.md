@@ -1,12 +1,12 @@
 ---
 title: 'Consulting'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+icon: 'icons/service-icon-2.png'
 featured: true
 draft: false
 heroHeading: 'Consulting'
 heroSubHeading: 'Our experts advise you in all areas of the IT world.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/service2.jpg'
 ---
 
 System consulting, system development and publishing, we find the right expert for every field. Our team of experts can advise you in almost all areas and recommend you if necessary. 

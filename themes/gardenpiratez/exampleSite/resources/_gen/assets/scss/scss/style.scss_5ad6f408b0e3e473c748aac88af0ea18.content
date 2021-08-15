@@ -5894,7 +5894,7 @@ ul.social {
         width: 70%; } }
     @media (min-width: 768px) {
       .intro p {
-        width: 60%; } }
+        ## width: 60%; } }
     @media (min-width: 992px) {
       .intro p {
         width: 55%; } }
@@ -6032,7 +6032,7 @@ ul.social {
       @media (min-width: 768px) {
         .hero-image .hero-text p {
           font-size: 1.6rem;
-          width: 60%; } }
+          ## width: 60%; } }
   .hero-image .hero-down {
     flex: 0;
     text-align: center;

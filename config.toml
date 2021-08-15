@@ -34,8 +34,8 @@ url = "/services/"
 weight = 2
 
 [[menu.main]]
-name = "Companies"
-url = "/companies/"
+name = "Networks"
+url = "/networks/"
 weight = 3
 
 [[menu.main]]
