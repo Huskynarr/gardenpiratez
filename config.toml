@@ -2,7 +2,7 @@ baseURL = "gardenpiratez.de"
 languageCode = "de-de"
 title = "GardenPiratez"
 themesDir = "themes"
-theme = "hugo-hero-theme"
+theme = "gardenpiratez"
 
 [module]
 [module.hugoVersion]
