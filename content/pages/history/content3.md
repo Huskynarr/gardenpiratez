@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Feel free to contact us
+Do you also want to become a part of our history?

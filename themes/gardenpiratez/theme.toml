@@ -1,10 +1,10 @@
-name = "Hero"
-license = "MIT"
-licenselink = "https://github.com/zerostaticthemes/hugo-hero-theme/blob/master/LICENSE"
-description = "Hero is a multipurpose theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site."
+name = "GardenPiratez"
+license = ""
+licenselink = "NO LICENSE"
+description = "Portfolio"
 
-homepage = "https://github.com/zerostaticthemes/hugo-hero-theme"
-demosite = "https://hugo-hero.netlify.app/"
+homepage = "https://gardenpiratez.de"
+demosite = "https://gardenpiratez.de"
 
 tags = ["responsive","minimal","clean","company","portfolio","bootstrap"]
 features = ["services","work","fullwidth","hero images"]
