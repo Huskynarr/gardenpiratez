@@ -1,9 +1,9 @@
 ---
-title: 'Time is precious'
+title: 'Our Difference'
 weight: 2
 background: ''
-button: 'Contact Us'
-buttonLink: 'contact'
+button: 'About Us'
+buttonLink: 'about'
 ---
 
 It is limited, precious and irreplaceable. Do not hesitate and contact us.

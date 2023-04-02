@@ -13,7 +13,7 @@
   --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #013220;
+  --primary: #;
   --secondary: #43454d;
   --success: #28a745;
   --info: #17a2b8;
@@ -132,7 +132,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #013220;
+  color: #;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
@@ -1200,7 +1200,7 @@ mark,
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #013220 !important; }
+  background-color: #1c3ed3 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -1300,7 +1300,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #013220 !important; }
+  border-color: #1c3ed3 !important; }
 
 .border-secondary {
   border-color: #43454d !important; }
@@ -5280,7 +5280,7 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #013220 !important; }
+  color: #1c3ed3 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #1631a6 !important; }
@@ -5371,7 +5371,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger.is-active .hamburger-inner,
   .hamburger.is-active .hamburger-inner::before,
   .hamburger.is-active .hamburger-inner::after {
-    background-color: #FFF; }
+    background-color: #1c3ed3; }
 
 .hamburger-box {
   width: 32px;
@@ -5386,7 +5386,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #013220;
+    background-color: #1c3ed3;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -5435,7 +5435,7 @@ ol {
     flex: 1; }
 
 .header {
-  color: #013220;
+  color: #1c3ed3;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -5448,11 +5448,8 @@ ol {
     align-items: center; }
   .header.header-absolute {
     position: absolute;
-    z-index: 10;
+    z-index: 100;
     width: 100%; }
-
-.lock-scroll .header.header-absolute {
-  position: static; }
 
 .footer {
   background: #43454d;
@@ -5613,24 +5610,24 @@ ol {
         font-weight: regular;
         text-transform: uppercase;
         text-decoration: none;
-        color: #013220; }
+        color: #1c3ed3; }
         .main-menu > ul > li > a:hover {
-          background: #013220;
+          background: #1c3ed3;
           color: #ffffff;
           text-decoration: none; }
       .main-menu > ul > li.active > a {
-        background: #013220;
+        background: #1c3ed3;
         text-decoration: none;
         color: #ffffff; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #013220;
+          background: #1c3ed3;
           transition: all 225ms ease-in 0s;
           color: #ffffff; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #013220;
+  background: #1c3ed3;
   top: 0;
   left: 0;
   width: 100%;
@@ -5711,22 +5708,18 @@ ul.social {
   padding: 0;
   align-items: center;
   justify-content: flex-start; }
-  ul.social svg {
-    fill: currentColor;
-    height: 16px;
-    width: 16px; }
   ul.social li {
     margin: 0;
     padding: 0;
     list-style: none;
-    margin-right: 30px; }
+    display: inline-block;
+    margin-right: 10px; }
     ul.social li:last-of-type {
       margin: 0; }
     ul.social li a {
       background-repeat: no-repeat;
       background-position: center center;
       background-size: auto;
-      padding: 8px;
       display: block; }
       ul.social li a span {
         font-size: 24px; }
@@ -5744,7 +5737,7 @@ ul.social {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #013220; }
+    background: #1c3ed3; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -5756,7 +5749,7 @@ ul.social {
   white-space: nowrap;
   display: inline-block;
   padding: 7px 15px;
-  background: #013220;
+  background: #1c3ed3;
   font-size: 15px;
   font-weight: 600;
   text-transform: uppercase;
@@ -5776,7 +5769,7 @@ ul.social {
   border: 2px solid #fff; }
 
 .title-1 {
-  color: #013220;
+  color: #1c3ed3;
   font-size: 2.4rem;
   line-height: 1.2;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system; }
@@ -5846,7 +5839,7 @@ ul.social {
     .content h2 {
       line-height: 1.4; } }
 .content h3 {
-  color: #013220;
+  color: #1c3ed3;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -5874,7 +5867,7 @@ ul.social {
       padding-top: 200px;
       padding-bottom: 100px; } }
   .intro h1 {
-    color: #013220;
+    color: #1c3ed3;
     font-size: 2.4rem;
     line-height: 1.2;
     font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -5929,13 +5922,13 @@ ul.social {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #013220, #43454d); }
+  background-image: linear-gradient(to right, #1c3ed3, #43454d); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #013220, #43454d); }
+  background-image: linear-gradient(to bottom, #1c3ed3, #43454d); }
 
 .strip-primary {
-  background-color: #013220; }
+  background-color: #1c3ed3; }
 
 .strip-secondary {
   background-color: #43454d; }
@@ -6000,14 +5993,14 @@ ul.social {
         font-size: 0.8rem;
         font-weight: 700; }
       .feature .feature-content p em {
-        color: #013220;
+        color: #1c3ed3;
         font-style: normal; }
 
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
-  background-color: #013220;
+  background-color: #1c3ed3;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6059,6 +6052,9 @@ ul.social {
 .hero-image-blend-overlay {
   background-blend-mode: overlay; }
 
+html {
+  scroll-behavior: smooth; }
+
 .bg-contain {
   background-size: contain; }
 
@@ -6078,7 +6074,7 @@ ul.social {
   background-blend-mode: overlay; }
 
 .bg-primary {
-  background-color: #013220; }
+  background-color: #1c3ed3; }
 
 .bg-secondary {
   background-color: #43454d; }

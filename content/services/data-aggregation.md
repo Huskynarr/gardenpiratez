@@ -14,15 +14,13 @@ Data is the gold of our times. With the help of special tools, artificial intell
 
 ## Data Mining
 
-Collecting and storing data sounds simple, but it's not. As soon as the amount of data reaches a scale of more than one TB, the first problems will be start.
-
+Collecting and storing data may sound simple, but it is not. Once the amount of data reaches more than a terabyte, the first problems arise. Our comprehensive digital solutions leverage artificial intelligence and expert knowledge to overcome these challenges and provide effective data aggregation, targeted investments, an extensive media network, detailed game analysis and development, and expert advice. We are committed to providing our customers with tailored solutions that help them navigate and succeed in an increasingly connected and data-driven future.
 - Data warehousing
 
 
 ## Big Data Analysing
 
-We process and illustrate the many data. With special visualizations and analyses, trends can be clearly recognized, precautions can be taken, and much more.
-
+We process and visualize the large amount of data that accumulates. By using special visualizations and analyses, trends can be clearly identified, precautionary measures can be taken and much more can be achieved. Our experts use state-of-the-art technologies and methods to transform complex data sets into easy-to-understand visualizations and meaningful reports. These detailed insights enable our clients to make informed decisions, adapt their strategies, and gain competitive advantage in their respective industries. In a world where data is becoming increasingly valuable, we help companies realize their full potential and develop future-oriented solutions.
 - Data visualization
 - Real-time analytics
 - Predictive analytics

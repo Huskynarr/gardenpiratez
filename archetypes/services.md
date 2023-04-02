@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-icon: "services/service-icon-1.png"
+icon: "icons/service-icon-1.png"
 featured: true
 draft: false
 weight: 100

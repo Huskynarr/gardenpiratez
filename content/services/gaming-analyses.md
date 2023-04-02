@@ -9,19 +9,13 @@ heroSubHeading: 'Analyses and figures help to create the right product also in t
 heroBackground: 'images/service1.jpg'
 ---
 
-Analyses of our special databases give us and them a deep insight into the current industry. The analysis also gives us
-a glimpse of where the future will take us.
+Our special database analyses provide us and you with in-depth insights into the current industry landscape. The analysis also allows us to look into the future and see where the market is heading.
 
-- Market Report
-- Ingame Analyse
+- Market report
+- In-game analysis
 
 ## Market Report
+A market analysis is often purely quantitative and not qualitative. However, with our advanced reports, you can make a more detailed comparison with competitors. Our market reports take into account both quantitative and qualitative aspects and provide you with a comprehensive understanding of the market, trends and your position compared to your competitors.
 
-A market analysis is often only quantitative and not qualitative. With the extended reports you can check a comparison
-with competitors in more detail.
-
-## Ingame Analyse
-
-An in-game analysis can be very time-consuming. Every interaction of a player must be tracked and analyzed for this. The
-developers can see whether certain features are used frequently, can be helpful in troubleshooting and can also show the
-management sales hits more precisely.
+## In-game analysis
+In-game analysis can be very time-consuming, as every player interaction must be captured and analyzed. Thanks to our comprehensive in-game analytics, developers can determine if certain features are used frequently, what bug fixes are needed, and which best sellers can be identified more accurately. Our in-game analytics save time and resources by providing detailed information about user behavior, game content popularity, and potential improvements that can contribute to an optimized player experience and a successful product.
